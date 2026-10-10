@@ -28,3 +28,5 @@ else{
 }
 
 console.log("O Herói de nome "+ nome + " está no nível de " + Elo)
+
+//A única parte que não utilizei foi a estrutura de repetição, pois considerei desnecessária para a proposta do desafio, que solicita a classificação de apenas um herói com base em sua quantidade de XP.
